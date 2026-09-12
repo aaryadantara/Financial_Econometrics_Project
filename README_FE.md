@@ -42,7 +42,7 @@ Python (`pandas`, `numpy`, `statsmodels`, `fredapi`, `yfinance`, `scikit-learn`,
 ## Files
 
 - `FE_Group2_Final.ipynb` — full analysis notebook (data pipeline, diagnostics, ARIMAX/SARIMAX/VAR models, results summary)
-- `FE_PPT_Group2_Final.pptx` — presentation deck (theoretical framework, literature review, results)
+- `FE_PPT_Group2_Final.pdf` — presentation deck (theoretical framework, literature review, results)
 - `literature_review.docx` — full literature review (7 papers, synthesis table, research gap analysis)
 
 ## Team
